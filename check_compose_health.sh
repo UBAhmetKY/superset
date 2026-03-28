@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Compose-Projektpfad
-COMPOSE_DIR="/home/ahmet/Projekte/superset"
+COMPOSE_DIR="/home/ahmet/Projekte/GNN/superset"
 COMPOSE_FILE="$COMPOSE_DIR/docker-compose.yml"
 
 # Dienste, die überwacht werden sollen
